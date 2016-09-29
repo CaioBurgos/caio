@@ -1,17 +1,17 @@
 # caio
 Projeto do Semestre
 
-Projeto do semestre Tema:
+Projeto do semestre Tema: Blog esportivo
 
-Público-alvo:
+Público-alvo: TOrcedores
 
-Objetivos do site:
+Objetivos do site: Informações sobre o clube
 
 Funcionalidades do site:
 
-Usuário Administrador:
+Usuário Administrador:Caio_burgos@hotmail.com
 
-Usuário Logado:
+Usuário Logado: visitante
 
 Usuário Visitante:
 
