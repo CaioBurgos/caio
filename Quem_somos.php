@@ -100,8 +100,8 @@
                <h1 id="titulo">Um pouco sobre nossa história</h1>
                     <img id="img" src="imgsp/mackenzie.jpg"/>
 
-                    <h2 id="artigo"> O Blog São Paulo Mack foi fundado no ano de 2015 na cidade São Paulo, mais especificamente na Universidade Presbiteriana Mackenzie e sua principal missão é oferecer informações históricas e atuais de um dos maiores clubes bresileiros da atualidade. Atualmente contamos com 3 desenvolvedores para manter o site cada vez mais atualizado e belo para nossos leitores.
-                A idéia de fazer um blog do São Paulo surgiu por conta de que todos os desenvolvedores são sãopaulinos de coração e tem um imenso respeito pelo clube facilitando assim na escolha do tema do nosso Projeto da matéria Tecnologia Web.</h2>
+                    <h2 id="artigo"> O Blog São Paulo Mack foi fundado no ano de 2016 na cidade São Paulo, mais especificamente na Universidade Presbiteriana Mackenzie e sua principal missão é oferecer informações históricas e atuais de um dos maiores clubes bresileiros da atualidade. Atualmente contamos com 1 desenvolvedor para manter o site cada vez mais atualizado e belo para nossos leitores.
+                A idéia de fazer um blog do Corinthians surgiu por conta de qu</h2>
             </section>
 
 
